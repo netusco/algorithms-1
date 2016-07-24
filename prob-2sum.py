@@ -30,7 +30,7 @@ import numpy as np
 
 
 # load contents of text file into a list numList
-NUMLIST_FILENAME = "prob-2sum.txt" # requested interval: [-10000, 10000] / output: 
+NUMLIST_FILENAME = "prob-2sum.txt" # requested interval: [-10000, 10000] / output: 427
 # NUMLIST_FILENAME = "tests/prob-2sum-0.txt" # requested interval: [3, 10] / output: 28
 
 inFile = open(NUMLIST_FILENAME, 'r')
